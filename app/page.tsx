@@ -80,7 +80,7 @@ export default function Home() {
               </div>
               <div>
                 <h1 className="text-2xl font-bold text-gray-800">Quote</h1>
-                <p className="text-sm text-gray-500 -mt-1">Quotesoftheday</p>
+                <p className="text-sm text-gray-500 -mt-1">Quoteoftheday</p>
               </div>
             </div>
 
